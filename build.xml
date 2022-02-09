@@ -1,0 +1,7 @@
+<project name="realtime" default="WAR-build" basedir=".">
+	<description>realtime - Build file</description>
+
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+
+</project>
